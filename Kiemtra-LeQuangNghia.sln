@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kiemtra-LeQuangNghia", "Kiemtra-LeQuangNghia\Kiemtra-LeQuangNghia.csproj", "{C2E974D2-43F8-4623-ACF9-B395ED194E51}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{060E9236-CAA0-4FC2-B5B9-6A4EF480CF38}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2E974D2-43F8-4623-ACF9-B395ED194E51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E974D2-43F8-4623-ACF9-B395ED194E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E974D2-43F8-4623-ACF9-B395ED194E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E974D2-43F8-4623-ACF9-B395ED194E51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC5B330D-089C-41D2-A83A-2C5613DE0079}
+	EndGlobalSection
+EndGlobal
